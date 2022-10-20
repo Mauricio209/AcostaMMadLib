@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/bernardo/.nuget/packages/": {}
+    "C:\\Users\\kentc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/bernardo/Documents/RealCodeStack/AcostaMMadLib/AcostaMMadLib.csproj",
+      "projectUniqueName": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\AcostaMMadLib\\AcostaMMadLib.csproj",
       "projectName": "AcostaMMadLib",
-      "projectPath": "/Users/bernardo/Documents/RealCodeStack/AcostaMMadLib/AcostaMMadLib.csproj",
-      "packagesPath": "/Users/bernardo/.nuget/packages/",
-      "outputPath": "/Users/bernardo/Documents/RealCodeStack/AcostaMMadLib/obj/",
+      "projectPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\AcostaMMadLib\\AcostaMMadLib.csproj",
+      "packagesPath": "C:\\Users\\kentc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kentc\\OneDrive\\Documents\\Coding Combine\\New folder (2)\\AcostaMMadLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/bernardo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\kentc\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

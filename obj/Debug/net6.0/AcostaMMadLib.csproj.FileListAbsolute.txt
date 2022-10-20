@@ -13,3 +13,18 @@
 /Users/bernardo/Documents/RealCodeStack/AcostaMMadLib/obj/Debug/net6.0/AcostaMMadLib.pdb
 /Users/bernardo/Documents/RealCodeStack/AcostaMMadLib/obj/Debug/net6.0/AcostaMMadLib.genruntimeconfig.cache
 /Users/bernardo/Documents/RealCodeStack/AcostaMMadLib/obj/Debug/net6.0/ref/AcostaMMadLib.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\bin\Debug\net6.0\AcostaMMadLib.exe
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\bin\Debug\net6.0\AcostaMMadLib.deps.json
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\bin\Debug\net6.0\AcostaMMadLib.runtimeconfig.json
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\bin\Debug\net6.0\AcostaMMadLib.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\bin\Debug\net6.0\AcostaMMadLib.pdb
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\AcostaMMadLib.csproj.AssemblyReference.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\AcostaMMadLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\AcostaMMadLib.AssemblyInfoInputs.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\AcostaMMadLib.AssemblyInfo.cs
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\AcostaMMadLib.csproj.CoreCompileInputs.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\AcostaMMadLib.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\refint\AcostaMMadLib.dll
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\AcostaMMadLib.pdb
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\AcostaMMadLib.genruntimeconfig.cache
+C:\Users\kentc\OneDrive\Documents\Coding Combine\New folder (2)\AcostaMMadLib\obj\Debug\net6.0\ref\AcostaMMadLib.dll
